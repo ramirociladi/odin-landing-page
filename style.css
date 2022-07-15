@@ -43,4 +43,5 @@ ul {
 .hero {
   display: flex;
   background-color: #1f2937;
+  color: #f9faf8;
 }
