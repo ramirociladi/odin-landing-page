@@ -62,4 +62,5 @@ ul {
 }
 
 .hero-right {
+  display: flex;
 }
