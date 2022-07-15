@@ -41,4 +41,5 @@ ul {
 }
 
 .hero {
+  display: flex;
 }
