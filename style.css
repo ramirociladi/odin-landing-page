@@ -65,6 +65,7 @@ ul {
 .hero-left .hero-button {
   border: none;
   border-radius: 4px;
+  background: #3882f6;
 }
 
 .hero-right {
