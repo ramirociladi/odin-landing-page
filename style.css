@@ -68,4 +68,6 @@ ul {
   height: 225px;
   color: #e5e7eb;
   background-color: gray;
+  justify-content: center;
+  align-items: center;
 }
