@@ -62,6 +62,9 @@ ul {
   color: #e5e7eb;
 }
 
+.hero .button {
+}
+
 .hero-right {
   display: flex;
   width: 450px;
