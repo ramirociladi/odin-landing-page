@@ -46,6 +46,8 @@ ul {
 }
 
 .hero-left {
+  width: 450px;
+  height: 225px;
 }
 
 .hero-left .hero-header {
