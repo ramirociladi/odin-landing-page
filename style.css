@@ -63,4 +63,6 @@ ul {
 
 .hero-right {
   display: flex;
+  width: 450px;
+  height: 225px;
 }
