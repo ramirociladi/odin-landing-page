@@ -79,3 +79,10 @@ ul {
   justify-content: center;
   align-items: center;
 }
+
+.image-placeholder {
+  width: 100px;
+  height: 100px;
+  border: 3px solid #3882f6;
+  border-radius: 8px;
+}
