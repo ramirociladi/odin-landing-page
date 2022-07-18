@@ -112,13 +112,13 @@ ul {
   background-color: #e5e7eb;
 }
 
-.quote .text {
+.quote-container .text {
   font-size: 36px;
   font-style: italic;
   color: #1f2937;
 }
 
-.quote .author {
+.quote-container .author {
   font-size: 24px;
   font-weight: bold;
   color: #1f2937;
