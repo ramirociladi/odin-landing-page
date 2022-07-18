@@ -115,6 +115,7 @@ ul {
 .quote-container {
   display: flex;
   flex-direction: column;
+  width: 900px;
 }
 
 .quote-container .text {
