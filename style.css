@@ -118,7 +118,9 @@ ul {
 .quote-container {
   display: flex;
   flex-direction: column;
-  width: 900px;
+  width: 850px;
+  height: 450px;
+  justify-content: center;
 }
 
 .quote-container .text {
