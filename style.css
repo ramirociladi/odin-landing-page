@@ -111,6 +111,7 @@ ul {
 .quote {
   background-color: #e5e7eb;
   display: flex;
+  justify-content: center;
 }
 
 .quote-container {
