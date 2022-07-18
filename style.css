@@ -113,6 +113,7 @@ ul {
 }
 
 .quote-container {
+  display: flex;
 }
 
 .quote-container .text {
