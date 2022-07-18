@@ -108,6 +108,10 @@ ul {
   border-radius: 16px;
 }
 
+.info .text {
+  color: #1f2937;
+}
+
 .quote {
   background-color: #e5e7eb;
   display: flex;
