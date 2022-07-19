@@ -145,6 +145,7 @@ ul {
   justify-content: center;
   background-color: #3882f6;
   align-items: flex-end;
+  border-radius: 4px;
 }
 
 .action-container .action-title {
