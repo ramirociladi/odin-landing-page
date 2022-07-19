@@ -140,6 +140,8 @@ ul {
   text-align: right;
 }
 
-.action-container {
+.call-action {
   display: flex;
+  justify-content: center;
+  background-color: #3882f6;
 }
