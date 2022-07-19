@@ -140,5 +140,6 @@ ul {
   text-align: right;
 }
 
-.action-container {
+.call-action {
+  display: flex;
 }
