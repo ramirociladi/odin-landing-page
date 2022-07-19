@@ -151,3 +151,7 @@ ul {
   font-weight: bold;
   font-size: 24px;
 }
+
+.action-container .action-text {
+  color: #e5e7eb;
+}
