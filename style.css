@@ -145,3 +145,7 @@ ul {
   justify-content: center;
   background-color: #3882f6;
 }
+
+.action-container .action-title {
+  color: #f9faf8;
+}
