@@ -156,3 +156,10 @@ ul {
   color: #e5e7eb;
   font-size: 18px;
 }
+
+.call-action .action-button {
+  background-color: #3882f6;
+  border: 2px solid #f9faf8;
+  color: #f9faf8;
+  border-radius: 8px;
+}
