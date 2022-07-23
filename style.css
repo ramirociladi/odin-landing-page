@@ -46,6 +46,7 @@ ul {
   background-color: #1f2937;
   justify-content: space-between;
   padding: 100px 250px;
+  gap: 36px;
 }
 
 .hero-left {
@@ -87,6 +88,7 @@ ul {
   flex-direction: column;
   align-items: center;
   row-gap: 36px;
+  padding: 36px 0px 125px 0px;
 }
 
 .information .title {
@@ -99,7 +101,7 @@ ul {
   display: flex;
   width: 100px;
   justify-content: space-around;
-  gap: 36px;
+  gap: 48px;
   text-align: center;
 }
 
@@ -112,6 +114,7 @@ ul {
 
 .info .text {
   color: #1f2937;
+  padding-top: 8px;
 }
 
 .quote {
