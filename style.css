@@ -45,6 +45,7 @@ ul {
   display: flex;
   background-color: #1f2937;
   justify-content: space-between;
+  padding: 100px 250px;
 }
 
 .hero-left {
