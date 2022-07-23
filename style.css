@@ -67,11 +67,13 @@ ul {
 
 .hero-left .hero-button {
   border: none;
-  border-radius: 4px;
+  border-radius: 8px;
   background: #3882f6;
   color: #f9faf8;
-  padding: 4px 18px;
-  margin-top: 8px;
+  padding: 8px 32px;
+  margin-top: 16px;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .hero-right {
