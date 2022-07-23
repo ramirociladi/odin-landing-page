@@ -174,4 +174,5 @@ ul {
 }
 
 .footer {
+  display: flex;
 }
